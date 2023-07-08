@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sephtis-23
+- 👋 Hi, I’m @sephtis-23 || Elias Mapendo
 - 👀 I’m interested in Options Trading & Chess
 - 🌱 I’m currently learning Git and DSAs
 - 💞️ I’m looking to collaborate on ...
